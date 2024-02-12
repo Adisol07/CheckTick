@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RbnOJltYuEzOpdhYgjAVUXMy6VV75ZYc4yvTD5b7srNx4FNsDgWdR9QsvrliJIaasnWYdwoLLqxGszU4dYaLA==",
+  "success": true,
+  "projectFilePath": "/Users/adisol/Documents/Projects/CheckTick/CheckTick.csproj",
+  "expectedPackageFiles": [
+    "/Users/adisol/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

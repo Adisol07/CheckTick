@@ -1,0 +1,17 @@
+/Users/adisol/Documents/Projects/CheckTick/bin/Debug/net8.0/CheckTick
+/Users/adisol/Documents/Projects/CheckTick/bin/Debug/net8.0/CheckTick.deps.json
+/Users/adisol/Documents/Projects/CheckTick/bin/Debug/net8.0/CheckTick.runtimeconfig.json
+/Users/adisol/Documents/Projects/CheckTick/bin/Debug/net8.0/CheckTick.dll
+/Users/adisol/Documents/Projects/CheckTick/bin/Debug/net8.0/CheckTick.pdb
+/Users/adisol/Documents/Projects/CheckTick/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.csproj.AssemblyReference.cache
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.AssemblyInfoInputs.cache
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.AssemblyInfo.cs
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.csproj.CoreCompileInputs.cache
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.csproj.CopyComplete
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.dll
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/refint/CheckTick.dll
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.pdb
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/CheckTick.genruntimeconfig.cache
+/Users/adisol/Documents/Projects/CheckTick/obj/Debug/net8.0/ref/CheckTick.dll
